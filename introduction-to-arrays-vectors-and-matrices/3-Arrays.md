@@ -10,7 +10,7 @@
 
 Before jumping into what arrays are all about, we need to recap what we learnt about Lists in “Introduction to Python Programming” course. In addition, we need to learn about some keywords such as a “Dimension”.
 
-### List
+### List * testing on phone *
 
 * As the name suggests, **List is an ordered sequence of data. In real life, if you could make a list of things that come to your mind** (or event for any specific purpose), it could be something like this –
   * Brush
